@@ -1,0 +1,7 @@
+{
+  "name": "vuex5-proposal",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
