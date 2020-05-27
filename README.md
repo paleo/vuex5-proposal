@@ -1,6 +1,6 @@
 # Vuex 5 Proposal
 
-This is not an implementation. This repository contains only the typing of a non-validated proposal for Vuex 5.
+This is not an implementation. This repository contains only the typing of a [non-validated proposal for Vuex 5](https://github.com/vuejs/vuex/issues/1763).
 
 ## How to use
 
